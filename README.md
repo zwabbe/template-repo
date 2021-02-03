@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Jer Miller
 
 ## Technologies Used
 
@@ -22,10 +22,13 @@
 * _format_
 
 ## Known Bugs
-
+```
 * _Any known issues_
 * _should go here_
-
+```
 ## License
+[CC0](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/zero.markdown)
 
 ## Contact Information
+
+If you have any questions or concerns shoot me an [Email](mailto:gkstaff@gmail.com)! Or shoot me a message through Discord:Zwabbe@7788.
